@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="assets/matrix-rain.gif" alt="An animated green Matrix rain banner with the text Vittor" width="100%" />
-### Desenvolvedor em formação | Aprendendo e construindo com código
+Desenvolvedor em formação | Aprendendo e construindo com código
 
 Estudo programação com foco em **Python**, **MySQL** e boas práticas de desenvolvimento.
 Este perfil reúne meus projetos, exercícios e aprendizados ao longo dessa jornada.
