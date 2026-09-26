@@ -1,9 +1,6 @@
 <div align="center">
 
   <img src="assets/matrix-rain.gif" alt="An animated green Matrix rain banner with the text Vittor" width="100%" />
-
-# Olá, eu sou Vittor 👋
-
 ### Desenvolvedor em formação | Aprendendo e construindo com código
 
 Estudo programação com foco em **Python**, **MySQL** e boas práticas de desenvolvimento.
