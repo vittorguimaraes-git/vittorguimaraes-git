@@ -9,7 +9,7 @@ I'm an aspiring developer learning Python, MySQL, and software development funda
 
 ## Featured project
 
-- 📖 [Python studies — Curso em Vídeo](https://github.com/vittorguimaraes-git/cursoemvideo-python) — exercises and notes from my Python studies.
+- 📖 [Python studies](https://github.com/vittorguimaraes-git/cursoemvideo-python) — exercises and notes from my Python studies.
 
 ## Contact
 
