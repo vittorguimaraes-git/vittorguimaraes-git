@@ -4,8 +4,8 @@ I'm an aspiring developer learning Python, MySQL, and software development funda
 
 ## Technologies
 
-- Python
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Featured project
 
