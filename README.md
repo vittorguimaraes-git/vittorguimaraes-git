@@ -1,6 +1,6 @@
 # Hi, I'm Vittor
 
-I'm an aspiring developer learning Python, MySQL, and software development fundamentals. I use my repositories to practice, build projects, and document what I learn.
+I'm 22 and transitioning into software development after nearly 10 years as a professional Taekwondo athlete. The discipline and perseverance I developed through sport now guide me as I learn about the software development fundamentals.
 
 ## Technologies
 
