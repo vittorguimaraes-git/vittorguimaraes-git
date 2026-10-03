@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Vittor 👋</h1>
 
-<p align="center">
-  <em>From the dojang to the dev desk.</em>
-</p>
-
 I'm a 22-year-old former professional Taekwondo athlete, now transitioning into software development. Nearly 10 years in sport taught me discipline and perseverance—qualities I bring to learning software development and building with Python and MySQL.
 
 ## Technologies
