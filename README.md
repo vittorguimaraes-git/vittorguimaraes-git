@@ -9,6 +9,7 @@ I'm a 22-year-old former professional Taekwondo athlete, now transitioning into 
 
 ## Featured project
 
+- 📋 [To-do List](https://github.com/vittorguimaraes-git/projects/tree/main/src/todo_list) — a Python command-line task manager for adding, editing, prioritizing, completing, and removing tasks.
 - 📖 [Python studies](https://github.com/vittorguimaraes-git/cursoemvideo-python) — exercises and notes from my Python studies.
 
 ## Contact
