@@ -1,18 +1,25 @@
-<h1 align="center">Hi, I'm Vittor 👋</h1>
+<div align="center">
 
-I'm a 22-year-old former professional Taekwondo athlete, now transitioning into software development. Nearly 10 years in sport taught me discipline and perseverance—qualities I bring to learning software development and building with Python and MySQL.
+  <h1>Hi, I'm Vittor 👋</h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBkeGdzd2t2NXlxZzR1OXBzdDhucjR0YnVrd2FjdWZwdTZtMzRnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif" width="280" alt="Animated coding-themed GIF" />
+
+</div>
+
+I'm 22 and transitioning into software development after nearly 10 years as a professional Taekwondo athlete. The discipline and perseverance I developed through sport now fuel my learning journey with Python, MySQL, and software development.
 
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Featured project
+## Projects
 
 - 📋 [To-do List](https://github.com/vittorguimaraes-git/projects/tree/main/src/todo_list) — a Python command-line task manager for adding, editing, prioritizing, completing, and removing tasks.
 - 📖 [Python studies](https://github.com/vittorguimaraes-git/cursoemvideo-python) — exercises and notes from my Python studies.
 
-## Contact
+## Say hello
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittor-guimar%C3%A3es-0b3a0b42a/)
 [![Discord](https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/937496514308235286)
+</div>
