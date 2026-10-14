@@ -1,14 +1,13 @@
 <div align="center">
 
   <h1>Hi, I'm Vittor 👋</h1>
-  <img src="https://raw.githubusercontent.com/vittorguimaraes-git/vittorguimaraes-git/snake-output/contribution-snake.gif" alt="Animated snake following my GitHub contribution graph" width="100%" />
 
 </div>
 
 I'm 22 and transitioning into software development after nearly 10 years as a professional Taekwondo athlete. The discipline and perseverance I developed through sport now fuel my learning journey with Python, MySQL, and software development.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBkeGdzd2t2NXlxZzR1OXBzdDhucjR0YnVrd2FjdWZwdTZtMzRnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif" width="280" alt="Animated coding-themed GIF" />
+  <img src="https://raw.githubusercontent.com/vittorguimaraes-git/vittorguimaraes-git/snake-output/contribution-snake.gif" alt="Animated snake following my GitHub contribution graph" width="100%" />
 </p>
 
 ## Technologies
