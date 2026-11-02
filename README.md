@@ -17,6 +17,7 @@ I'm 22 and transitioning into software development after nearly 10 years as a pr
 
 ## Projects
 
+- 💸 [Expense Organizer](https://github.com/vittorguimaraes-git/academic-projects/tree/main/src/ExpenseOrganizer) — a Python project for recording income and expenses, reviewing transactions and monthly reports, and exporting data to CSV.
 - 📋 [To-do List](https://github.com/vittorguimaraes-git/projects/tree/main/src/todo_list) — a Python command-line task manager for adding, editing, prioritizing, completing, and removing tasks.
 - 📖 [Python studies](https://github.com/vittorguimaraes-git/cursoemvideo-python) — exercises and notes from my Python studies.
 
