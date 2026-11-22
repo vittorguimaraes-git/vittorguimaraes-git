@@ -32,7 +32,7 @@ Depois de quase 10 anos como atleta profissional de Taekwondo, levo para o códi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittor-guimar%C3%A3es-0b3a0b42a/)
 
-E-mail: **[coloque aqui o seu e-mail profissional]**
+E-mail: **[vittorguimaraes.git@gmail.com]**
 
 ---
 
